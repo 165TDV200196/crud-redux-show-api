@@ -1,0 +1,1 @@
+export const LiST_ALL = 'LIST_ALL';
